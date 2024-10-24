@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  color: purple;
+}
+
+div {
+  width: 80%;
+  text-align: center;
+  margin: 0 auto;
+}
